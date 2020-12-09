@@ -1,1 +1,55 @@
-Test
+Les queues dans le code seront:
+
+ 
+
+public static final String INBOUND_DETAIL_QUEUE_NAME = "QZXN0.ESB.TO.TOMUPLOAD.DETAIL";
+
+public static final String INBOUND_ERROR_QUEUE_NAME = "QZXN0.ESB.TO.TOMUPLOAD.ERROR";
+
+public static final String INBOUND_MESSAGE_QUEUE_NAME = "QZXN0.ESB.TO.TOMUPLOAD.MESSAGE";
+
+ 
+
+ 
+
+Voici les demandes Juna:
+
+Local Queues
+
+https://juna.fg.rbc.com/viewTicket.action?show=view&id=177831
+
+https://juna.fg.rbc.com/viewTicket.action?show=view&id=177833
+
+https://juna.fg.rbc.com/viewTicket.action?show=view&id=177834
+
+ 
+
+Remote Queues
+
+https://juna.fg.rbc.com/viewTicket.action?show=view&id=177835
+
+https://juna.fg.rbc.com/viewTicket.action?show=view&id=177836
+
+https://juna.fg.rbc.com/viewTicket.action?show=view&id=177837
+
+ 
+
+ 
+
+Access
+
+https://juna.fg.rbc.com/viewTicket.action?show=view&id=177838
+
+ 
+
+ 
+
+DLQ
+
+https://juna.fg.rbc.com/viewTicket.action?show=view&id=177839
+
+https://juna.fg.rbc.com/viewTicket.action?show=view&id=177840
+
+https://juna.fg.rbc.com/viewTicket.action?show=view&id=177841
+
+ 
